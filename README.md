@@ -1,2 +1,2 @@
 # IP-Based-MultiClient-Network-Control-Server
-Developed a multi-threaded TCP server in C using POSIX threads to handle multiple client connections, with packet logging, IP-based access control, and sandboxed file operations.
+Developed a multi-threaded TCP server in C using POSIX threads to handle multiple client connections, with packet logging, IP-based access control, and sandboxed file operations. Built an integrated HTTP web dashboard to monitor connected clients and send real-time file commands, demonstrating socket programming, concurrency, and basic web server implementation.
